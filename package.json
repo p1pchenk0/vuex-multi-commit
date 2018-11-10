@@ -1,6 +1,6 @@
 {
   "name": "vuex-multi-commit",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Allow working with Vuex 3.x mutations in more fancy way by passing object or array of mutations to single 'commit' call",
   "main": "index.js",
   "scripts": {
