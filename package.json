@@ -1,0 +1,23 @@
+{
+  "name": "vuex-multi-commit",
+  "version": "1.2.0",
+  "description": "Allow working with Vuex 3.x mutations in more fancy way by passing object or array of mutations to single 'commit' call",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p1pchenk0/vuex-multi-commit.git"
+  },
+  "keywords": [
+    "vuex",
+    "mutations"
+  ],
+  "author": "Artur Pipchenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/p1pchenk0/vuex-multi-commit/issues"
+  },
+  "homepage": "https://github.com/p1pchenk0/vuex-multi-commit#readme"
+}
