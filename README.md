@@ -1,4 +1,5 @@
 # vuex-multi-commit
+[![npm](https://img.shields.io/npm/v/vue-multi-commit.svg)](vue-multi-commit) ![npm](https://img.shields.io/npm/dt/vue-multi-commit.svg)
 This package allows to combine code needed to commit multiple mutations inside one `commit` call.
 
 ## Installation
