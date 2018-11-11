@@ -49,4 +49,4 @@ If you want, you can use single object:
     'andAlsoDoThat': 400700
   })
 ```
-Unfortunately, so far this package doesn't allow to use arrays or objects inside store modules.
+Unfortunately, so far this package doesn't allow to use arrays or objects inside store modules except root.
