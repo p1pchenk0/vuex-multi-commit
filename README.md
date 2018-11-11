@@ -49,14 +49,4 @@ If you want, you can use single object:
     'andAlsoDoThat': 400700
   })
 ```
-This also works inside store or store modules:
-```javascript
-  actions: {
-    fireAction(context) {
-      context.commit({
-        fireMutationOne: 'foo',
-        fireMutationTwo: 'bar'
-      })
-    }
-  }
-```
+Unfortunately, so far this package doesn't allow to use arrays or objects inside store modules.
